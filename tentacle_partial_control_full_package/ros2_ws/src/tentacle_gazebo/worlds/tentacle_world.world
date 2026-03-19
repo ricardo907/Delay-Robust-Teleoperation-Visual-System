@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<sdf version="1.6">
+  <world name="tentacle_world">
+    <include><uri>model://ground_plane</uri></include>
+    <include><uri>model://sun</uri></include>
+    <gui fullscreen="0">
+      <camera name="user_camera">
+        <pose>2 -3 2 0 0.5 2.1</pose>
+      </camera>
+    </gui>
+    <gravity>0 0 -9.8</gravity>
+  </world>
+</sdf>
