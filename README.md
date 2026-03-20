@@ -1,4 +1,5 @@
 # Delay-Robust-Teleoperation-Visual-System
+Thanks works for the team members Wenbo Fan; Haocheng Lyu from uob(Bristol)
 Delay-Robust Teleoperation System with Digital Twin Prediction, Risk-Adaptive Shared Control, and Visual Analytics
 
 This project presents a complete simulation-based teleoperation system designed to improve the safety, stability, and robustness of robotic manipulation under communication delay and operational uncertainty. The system is developed as a Windows-compatible Python application with an integrated visual interface, allowing users to run interactive simulations, benchmark multiple control strategies, and automatically generate result visualizations and reports.
